@@ -1,4 +1,4 @@
-#  Sends a message to the telegram bot after the transmission finishing downloading a torrent.
+#  Shell script that sends a message to the telegram bot after the transmission finishes downloading a torrent.
 
 ### Instuctions:
 
