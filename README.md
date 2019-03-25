@@ -1,4 +1,4 @@
-#  Sends a message to a telegram bot after the transmission finishing the downloading
+#  Sends a message to the telegram bot after the transmission finishing downloading a torrent.
 
 ### Instuctions:
 
