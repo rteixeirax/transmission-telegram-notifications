@@ -10,7 +10,7 @@
 
  * Allow the execution of the script
 
-    `sudo chmod +rx transmission_telegram_notifications.sh`
+    `sudo chmod +rx transmission_telegram_notification.sh`
 
  * Open the transmission-daemon settings file
 
