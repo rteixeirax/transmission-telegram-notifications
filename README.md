@@ -1,6 +1,6 @@
 # Bash script that sends a message to the telegram bot after the transmission finishes downloading a torrent.
 
-#### Bash script [here](https://github.com/ricardotx/transmission-telegram-notifications/blob/master/src/transmission_telegram_notification.sh)
+#### Bash script [here](https://github.com/rteixeirax/transmission-telegram-notifications/blob/master/src/transmission_telegram_notification.sh)
 
 ### Instructions:
 
